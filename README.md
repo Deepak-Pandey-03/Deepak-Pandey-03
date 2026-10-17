@@ -14,5 +14,6 @@ Python · C++ · SQL · Google ADK · LangGraph · MCP · RAG · PyTorch · Tens
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/deepak-pandey-6118a5223/)
+- [LinkedIn](https://linkedin.com/in/deepak-pandey-6118a5223/)
+- [LeetCode](https://leetcode.com/u/pr020n/)
 
