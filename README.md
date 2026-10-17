@@ -10,7 +10,7 @@ Agentic AI · LLM Applications · Machine Learning · Computer Vision · Softwar
 
 ### Tech
 
-Python · C++ · SQL · Google ADK · LangGraph · MCP · RAG · PyTorch · TensorFlow · FastAPI · Docker · AWS · GCP
+Python · C++ · SQL · Google ADK · LangGraph · MCP · RAG · PyTorch · TensorFlow · FastAPI · Docker · GCP
 
 ### Connect
 
